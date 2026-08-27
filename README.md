@@ -3,7 +3,7 @@
 
 แดชบอร์ดวิเคราะห์ engagement ของโพสต์โซเชียลมีเดีย 1,000 โพสต์ จาก 5 แพลตฟอร์ม เพื่อหาว่าแพลตฟอร์ม ประเภทเนื้อหา และช่วงเวลาโพสต์แบบไหนให้ engagement สูงสุด — สร้างด้วย Power BI Desktop ต่อยอดแนวคิดจากโปรเจกต์ [Social Media Engagement Analysis](https://github.com/pawitra-thongma/social-media-analysis) ที่เคยวิเคราะห์ด้วย Python และ SQL มาก่อน
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
